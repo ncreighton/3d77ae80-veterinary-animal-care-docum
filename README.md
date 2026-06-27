@@ -1,2 +1,41 @@
-# 3d77ae80-veterinary-animal-care-docum
-Tired of spending hours manually typing patient records, treatment plans, and lab reports? The Veterinary &amp; Animal Care Document Generation API automates the creation of accurate, professional-grade documents in seconds, so you can focus on healing animals instead of wrestling with paperwork.  This API integrates directly with your practice managem
+# Veterinary & Animal Care Document Generation API
+
+> Api Product for Veterinary
+
+Tired of spending hours manually typing patient records, treatment plans, and lab reports? The Veterinary & Animal Care Document Generation API automates the creation of accurate, professional-grade documents in seconds, so you can focus on healing animals instead of wrestling with paperwork.
+
+This API integrates directly with your practice...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| 100 requests/day | ✅ | ✅ |
+| Standard endpoints | ✅ | ✅ |
+| JSON responses | ✅ | ✅ |
+| Unlimited requests | ❌ | ✅ |
+| Premium endpoints | ❌ | ✅ |
+| Batch processing | ❌ | ✅ |
+| Webhook notifications | ❌ | ✅ |
+| SLA guarantee | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/00w14n26H8Is6xybzScZv1t)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
